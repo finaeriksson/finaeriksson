@@ -7,7 +7,6 @@ Hi, I'm Josefin Eriksson! I'm a passionate developer with a knack for creating e
 
 - 🌱 I’m currently exploring Frontend development and have recently done my internship working with React and typescript.
 - 🤝 I’m now looking for work in frontend development.
-- 💬 Ask me about React, Typescript, HTML, CSS and Javascript.
 - 📫 How to reach me: [fina.eriksson@gmail.com](fina.eriksson@gmail.com)
 <!-- - ⚡ Fun fact:  -->
 
@@ -22,7 +21,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 ## 📫 Connect with Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/josefin-eriksson-18055b4/) 
-<!-- or check out my [personal website](https://silentbob.dev). -->
+
 
 ## 🛠️ Tools I Use
 
